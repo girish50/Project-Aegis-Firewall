@@ -5,6 +5,8 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
 ![Security](https://img.shields.io/badge/Security-Zero_Trust-orange)
 
+### 🔴 [**Click Here to Test the Live Project Aegis Demo!**](https://project-aegis-firewall.streamlit.app/)
+
 ## 📌 The Problem
 
 As AI agents become integrated into critical infrastructure, their biggest vulnerability is **Prompt Injection**. Malicious users can embed unauthorized instructions into inputs to manipulate the LLM, steal API keys, execute destructive commands, or bypass the AI's foundational rules. Currently, most systems rely on the LLM itself to notice if it's being attacked—which is slow, computationally expensive, and easily tricked by obfuscated payloads.
